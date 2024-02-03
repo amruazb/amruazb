@@ -5,7 +5,7 @@
 - Mastering C language intricacies
 - Exploring cybersecurity and backend development
 - Collaborative projects at 42 Abu Dhabi University of Coding AbuDhabi
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruazb&label=Profile%20views&color=0e75b6&style=flat" alt="amruazb" /> </p>
 
