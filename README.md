@@ -46,12 +46,12 @@
 
 - Unique coding approaches
 - Database management and troubleshooting
-- Operating systems and networking fundamental
+- Operating systems and networking fundamentals
 - 
 ## 📫 How to Reach Me
 
 - LinkedIn: www.linkedin.com/in/amruazb
-- Email: amruazb@live.com || amruazb@gmail.com
+- Email: amruazb@live.com || amruazb@gmail.com || aabashee@student.42abudhabi.ae
 
 ## ⚡ Fun Fact
 
