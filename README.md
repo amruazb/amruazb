@@ -39,7 +39,6 @@
 ## 🤔 Seeking Help With
 
 - Advanced networking concepts
-- Optimization techniques in C programming
 - Exciting open-source opportunities
 
 ## 💬 Ask Me About
