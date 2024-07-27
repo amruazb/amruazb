@@ -5,7 +5,9 @@
     <div class="col">
       <h2>🔭 Currently Working On</h2>
       <ul>
-        <li>Mastering C language intricacies</li>
+        <li>Mastering C++</li>
+        <li>Learning Python</li>
+        <li>Exploring web development</li>
         <li>Exploring cybersecurity and backend development</li>
         <li>Collaborative projects at 42 Abu Dhabi University of Coding Abu Dhabi</li>
       </ul>
@@ -32,11 +34,17 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" class="mr-3"/>
     </a>
-    <a href="https://members.codewithmosh.com/courses/enrolled/525068" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" class="mr-3"/>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" class="mr-3"/>
     </a>
-    <a href="https://members.codewithmosh.com/courses/enrolled/417695" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" class="mr-3"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="mr-3"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="mr-3"/>
     </a>
   </div>
 
@@ -57,7 +65,7 @@
 
   <h2>👯 Looking to Collaborate On</h2>
   <ul>
-    <li>Innovative C language projects</li>
+    <li>Innovative C++ projects</li>
     <li>Cybersecurity-related endeavors</li>
     <li>Backend development challenges</li>
   </ul>
